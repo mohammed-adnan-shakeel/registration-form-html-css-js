@@ -4,6 +4,10 @@
 
  I'm revisiting some of my older repositories and improving their structure, documentation, and readability as part of keeping my GitHub profile organized.
 
+## Live prieview
+
+**Website: [registration-form-html-css-js.pages.dev](https://registration-form-html-css-js.pages.dev/)**
+
 ## About the Project
 
 This project demonstrates a basic HTML form that collects:
